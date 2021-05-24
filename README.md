@@ -9,3 +9,4 @@ Tudo massa? Me chamo Rafael Cabral, orgulhosamente de Recife-PE 😎
  - Aprender um pouco a cada dia 💪🏼
  - Atualmente estou aprendendo <img align = "center" src = "https://img.shields.io/badge/-Java-brightgreen" />
  - Continua..   
+<a href="#"> <img align = "right" src = "https://badges.pufler.dev/visits/cabral1silva/cabral1silva"> </a>
