@@ -7,4 +7,5 @@ Tudo massa? Me chamo Rafael Cabral, orgulhosamente de Recife-PE 😎
  - Estudante de Analise e desenvolvimento de sistemas 🎓
  - Em busca da primeira vaga 🙃
  - Aprender um pouco a cada dia 💪🏼
+ - Atualmente estou aprendendo <img align = "center" src = "https://img.shields.io/badge/-Java-brightgreen" />
  - Continua..   
