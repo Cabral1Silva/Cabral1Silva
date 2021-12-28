@@ -7,6 +7,7 @@ Tudo massa? Me chamo Rafael Cabral, orgulhosamente de Recife-PE 😎
  - Estudante de Analise e desenvolvimento de sistemas 🎓
  - Em busca da primeira vaga 🙃
  - Aprender um pouco a cada dia 💪🏼
- - Atualmente estou aprendendo <img align = "center" src = "https://img.shields.io/badge/-Java-brightgreen" />
+ - Atualmente estou aprendendo <img align = "center" src = "https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> <img align = "center" src = "https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> <img align = "center" src = "https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+ - 
  - Continua..   
 <a href="#"> <img align = "right" src = "https://badges.pufler.dev/visits/cabral1silva/cabral1silva"> </a>
